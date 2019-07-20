@@ -31,7 +31,9 @@ var friends = [
   {
     name: "Kanye West",
     photo:
-      "https://pixel.nymag.com/imgs/daily/vulture/2017/08/01/1-kanye-west.w700.h467.2x.jpg",
+      "https://pixel.nymag.com/imgs/daily/vulture/2017/08/01/1-kanye-west.w700.h467.2x.jpg" ,
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   }
 ];
+
+module.exports = friends 
