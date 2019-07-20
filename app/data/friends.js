@@ -1,4 +1,4 @@
-var freinds = [
+var friends = [
   {
     name: "Ahmed",
     photo:
